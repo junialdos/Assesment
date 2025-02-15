@@ -1,0 +1,59 @@
+{
+  "name": "assesment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/coreui": "^2.1.9",
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.2.0",
+    "@coreui/icons": "0.3.0",
+    "@coreui/react": "~2.1.5",
+    "@material-ui/icons": "^3.0.2",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "classnames": "^2.2.6",
+    "core-js": "^2.6.5",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "firebase": "^5.6.0",
+    "flag-icon-css": "^3.3.0",
+    "font-awesome": "^4.7.0",
+    "javascript-excel": "^1.0.3",
+    "mdbreact": "^4.14.0",
+    "mui-datatables": "^2.2.0",
+    "mui-editable-table": "^0.3.3",
+    "node-sass": "^4.11.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-app-polyfill": "^0.2.2",
+    "react-chartjs-2": "^2.7.6",
+    "react-data-export": "^0.5.0",
+    "react-data-table-component": "^1.4.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "react-table": "^6.10.0",
+    "reactstrap": "^8.0.0",
+    "recompose": "^0.30.0",
+    "simple-line-icons": "^2.4.1",
+    "styled-components": "^4.2.0",
+    "sweetalert": "^2.1.2",
+    "xlsx": "^0.14.3",
+    "react-dropzone": "^4.2.13",
+    "csv": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
