@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const config = {
-  apiKey: "AIzaSyASWOqUppmRp0XFVb8uw8RTHbiVnJ6E_xY",
-  authDomain: "asesmen-hr.firebaseapp.com",
-  databaseURL: "https://asesmen-hr.firebaseio.com",
-  projectId: "asesmen-hr",
-  storageBucket: "asesmen-hr.appspot.com",
-  messagingSenderId: "661722095498"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
   // apiKey: "AIzaSyAJOo0Jn1KL4o9EAGg8tEioz-JRBBldLGg",
   // authDomain: "assesment-803ef.firebaseapp.com",
   // databaseURL: "https://assesment-803ef.firebaseio.com",
